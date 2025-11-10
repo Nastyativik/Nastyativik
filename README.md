@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUxMDl4d3dqa2ttemJoOWltbTR5dm9pZXVkeW54Y3Nub2VmbndrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PM4PRhsFxrC3pUz5PI/giphy.gif" align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkb3RrbG03aDZvZ2J5a2NjOWF4YW9jaHNzaXZvcmcwcjU1eW1xOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bdIHP4CqxvdUe2MJH8/giphy.gif" align="center">
 
 ## 🥰 Привет
 Я новичок в веб-разработке, но уже увлечён созданием сайтов, которые одновременно современны и удобны для пользователей.
