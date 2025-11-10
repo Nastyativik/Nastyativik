@@ -1,3 +1,5 @@
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUxMDl4d3dqa2ttemJoOWltbTR5dm9pZXVkeW54Y3Nub2VmbndrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PM4PRhsFxrC3pUz5PI/giphy.gif" align="center">
+
 ## 🥰 Привет
 Я новичок в веб-разработке, но уже увлечён созданием сайтов, которые одновременно современны и удобны для пользователей.
 ## 💻 Что изучаю?
@@ -10,4 +12,3 @@
 * Овладеть навыками создания полноценных веб-приложений.
 * Получить возможность начать карьеру во front-end разработке через работу или стажировку.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUxMDl4d3dqa2ttemJoOWltbTR5dm9pZXVkeW54Y3Nub2VmbndrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PM4PRhsFxrC3pUz5PI/giphy.gif" align="center">
