@@ -9,5 +9,4 @@
 ## 🌌 Мои цели
 * Овладеть навыками создания полноценных веб-приложений.
 * Получить возможность начать карьеру во front-end разработке через работу или стажировку.
-  <img src="https://i.pinimg.com/originals/0b/f2/44/0bf2442ec593c2faebcf0c229ea897e3.gif">
-
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRwZ3YxamNzY2UxZXFwMTFyOTU5ODAwdWRmeWpsN2RiZnpzMzFqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduQAsYcJKQH2XsI/giphy.gif](https://i.pinimg.com/originals/0b/f2/44/0bf2442ec593c2faebcf0c229ea897e3.gif)" align="center">
