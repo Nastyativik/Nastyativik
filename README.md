@@ -1,7 +1,7 @@
 
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
-![github-user-contribution](https://github.com/user-attachments/assets/75820c88-358a-441f-a66f-61c1fb350f02) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffecf5&lines=Привет!)](https://git.io/typing-svg) 
+![github-user-contribution](https://github.com/user-attachments/assets/75820c88-358a-441f-a66f-61c1fb350f02) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%f2d3e1&lines=Привет!)](https://git.io/typing-svg) 
 
 Я новичок в веб-разработке, но уже увлечён созданием сайтов, которые одновременно современны и удобны для пользователей.
 ---
